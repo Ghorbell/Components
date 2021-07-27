@@ -6,7 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body{
+  
+  background-image: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/619150/3bb00cbe95127f2fe36c85a33cfe69f4e5911234.jpg');
+  background-size: cover;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

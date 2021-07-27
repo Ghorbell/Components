@@ -1,0 +1,14 @@
+img{
+    margin-top: 5%;
+    border-radius: 50%;
+    border:3px solid cyan;   
+    height: 200px;
+    width: 200px;
+}
+h2{
+    color: white;
+    text-shadow: 7px 7px 8px rgba(0, 0, 255, 1);
+}
+h5{
+    color: white;
+}
